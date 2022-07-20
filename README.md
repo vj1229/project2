@@ -2,4 +2,4 @@
 
 Small test diary about my summer
 
-![screenshot1](summer choices.png)
+![screenshot1](summerchoices.png)
